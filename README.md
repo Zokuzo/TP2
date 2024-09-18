@@ -1,2 +1,2 @@
-# TP2 de Hugo Juskowiak
+# TP de programmation orienté objet de Hugo Juskowiak
 
